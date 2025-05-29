@@ -69,9 +69,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tahmid-rahman&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=tahmid-rahman&theme=radical&hide_border=false" alt="GitHub Streak" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmid-rahman&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
