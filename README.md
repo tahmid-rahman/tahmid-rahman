@@ -1,4 +1,3 @@
-<!-- Enhanced GitHub Profile README for Tahmid Rahman -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=700&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Tahmid+Rahman!;Full+Stack+Developer+%7C+ML+Enthusiast+%7C+CSE+Student;Be+the+Difference" alt="Typing SVG" />
